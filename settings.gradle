@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Bus Scheduler"
+rootProject.name = "GD1_05BusScheduler"

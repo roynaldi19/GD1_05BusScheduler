@@ -13,14 +13,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.busschedule
+package com.roynaldi19.gd1_05busschedule
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupActionBarWithNavController
-import com.example.busschedule.databinding.ActivityMainBinding
+import com.roynaldi19.gd1_05busschedule.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

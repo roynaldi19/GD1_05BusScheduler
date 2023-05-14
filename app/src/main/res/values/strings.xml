@@ -13,7 +13,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Bus Schedule</string>
+    <string name="app_name">GD1_05BusSchedule</string>
     <!-- Shown above left column listing bus stops in full schedule fragment -->
     <string name="bus_stop_header">Stop Name</string>
     <!-- Shown above right column listing arrival times in full schedule fragment -->

@@ -24,7 +24,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.example.busschedule"
+        applicationId "com.roynaldi19.gd1_05busschedule"
         minSdkVersion 19
         targetSdkVersion 33
         versionCode 1
