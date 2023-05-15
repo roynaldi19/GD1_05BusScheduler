@@ -1,4 +1,4 @@
-package com.roynaldi19.gd1_05busschedule
+package com.roynaldi19.gd1_05busschedule.database
 
 import androidx.annotation.NonNull
 import androidx.room.ColumnInfo
